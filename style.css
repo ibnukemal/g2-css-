@@ -1,0 +1,52 @@
+.header {
+    background-color: #130f40; 
+    color: white;
+    margin: 0px;
+    padding: 20px;
+}
+.header .website-name {
+    font-size: 20px;
+    margin-right: 20px;
+}
+.header .website-menu{
+    font-size: 14px;
+}
+.container{
+    background-color: #ffbe76;
+    display: table;
+    width: 800px;
+    margin: auto;
+}
+.sidebar{
+    background-color: #7ed6df;
+    padding: 20px;
+    float: left;
+
+}
+.sidebar ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.sidebar a{
+    color: black;
+}
+.sidebar a:hover{
+    color: #f0932b;
+}
+.content{
+    background-color: #dff9fb;
+    padding: 20px;
+    float: left;
+}
+.footer{
+    background-color: #30336b;
+    padding: 18px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+body, h1, p{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}    
